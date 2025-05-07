@@ -1,10 +1,12 @@
 import { Game, Types } from "phaser"
+import { Boot } from "./scenes/Boot"
 
 const config: Types.Core.GameConfig = {
-    type: Phaser .AUTO,
+    type: Phaser.AUTO,
     width: 800,
     height: 450,
-    parent: "game-container"
+    parent: "game-container",
+    scene: [Boot],
 }
 
 export default new Game(config)
