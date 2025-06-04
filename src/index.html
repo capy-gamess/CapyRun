@@ -1,9 +1,22 @@
 <html>
-    <head>
-        <title>CapyRun</title>
-    </head>
+    <head></head>
     <body>
-        <div id="game-container"></div>
-        <script type="module" src="./main.ts"></script>
+        <script>
+            function ativarGeolocalizacao() {
+                if (navigator.geolocation){
+                    navigator.geolocation.watchPosition(
+                        function(position){
+                            texto.innerHTML = position.coords.latitude + ", " + position.coords.longitude;
+                        }
+                    );
+                }
+            }
+        </script>
+        <button id="botao"
+        onclick="ativarGeolocalizacao()
+        ">Geolocalizar!
+        </button>
+
+        <text id="texto"></text>
     </body>
 </html>
