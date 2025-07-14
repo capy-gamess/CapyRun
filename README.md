@@ -11,6 +11,25 @@ Em poucas horas, começaram a mudar. Seus corpos passaram a brilhar com uma ener
 
 O governo descobriu essas capivaras mutantes, capturou elas com cuidado e as levou para um centro de pesquisa secreto, onde cientistas e militares observavam cada movimento com curiosidade e admiração. Para entender melhor seus poderes, organizaram vários testes, sendo o principal uma corrida entre as quatro (o jogo). Queriam descobrir não só qual era a mais rápida, mas também como elas usavam suas habilidades e qual o potencial delas para o futuro.
 
+## Personagens
+
+Serão quatro capivaras:
+
+### Noboru
+Habilidade: Pulo duplo
+
+### Akio
+Habilidade: Dash
+
+### Kuro
+Habilidade: Escalar com o Nunchaku
+
+### Shin
+Habilidade: Super pulo
+
+## Arrecadação
+Compra do jogo e venda de camisetas
+
 ## Referências
 
 Personagens: Tartarugas Ninjas
